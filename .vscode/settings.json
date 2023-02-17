@@ -1,0 +1,18 @@
+{
+    "cmake.allowCommentsInPresetsFile": false,
+    "cmake.cacheInit": null,
+    "cmake.cmakePath": "/usr/local/bin/cmake",
+    "files.associations": {
+        "complex": "cpp",
+        "__config": "cpp",
+        "__string": "cpp",
+        "ctime": "cpp",
+        "functional": "cpp",
+        "fstream": "cpp",
+        "new": "cpp",
+        "typeinfo": "cpp",
+        "variant": "cpp",
+        "algorithm": "cpp",
+        "utility": "cpp"
+    }
+}
